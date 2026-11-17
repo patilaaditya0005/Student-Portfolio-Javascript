@@ -1,3 +1,5 @@
+/*Trying something new feature 
+*/
 console.log("Portfolio JavaScript loaded!");
 
 // ===== HOME PAGE: CHANGE HEADING =====
